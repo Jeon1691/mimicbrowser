@@ -1,4 +1,4 @@
-package io.develicit.mimicbrowser.activity
+package io.develicit.mimicbrowser.view.activity
 
 import androidx.appcompat.app.AppCompatActivity
 import androidx.fragment.app.Fragment

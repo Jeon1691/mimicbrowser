@@ -1,4 +1,4 @@
-package io.develicit.mimicbrowser.activity
+package io.develicit.mimicbrowser.view.activity
 
 import android.os.Bundle
 import androidx.lifecycle.Observer

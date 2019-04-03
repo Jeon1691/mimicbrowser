@@ -1,4 +1,4 @@
-package io.develicit.mimicbrowser.fragment
+package io.develicit.mimicbrowser.view.fragment
 
 import android.content.SharedPreferences
 import android.preference.PreferenceFragment
