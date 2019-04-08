@@ -48,12 +48,22 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/io/develicit/mimicbrowser/utils/AppConstants.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/app/src/main/java/io/develicit/mimicbrowser/utils/Biometrics.kt">
           <value>
             <set />
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/app/src/main/java/io/develicit/mimicbrowser/utils/IWebViewProvider.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/io/develicit/mimicbrowser/utils/Settings.kt">
           <value>
             <set />
           </value>
@@ -193,6 +203,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/build.gradle">
           <value>
             <set />
@@ -204,6 +219,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../focus-android-master/app/src/main/java/org/mozilla/focus/settings/ExperimentsSettingsFragment.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../focus-android-master/app/src/main/java/org/mozilla/focus/utils/Settings.kt">
           <value>
             <set />
           </value>

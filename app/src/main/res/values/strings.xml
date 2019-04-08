@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">MimicBrowser</string>
+    <string name="app_name" translatable="false">MimicBrowser</string>
+    <string name="user_agent_app_name" translatable="false">MimicBrowser</string>
 </resources>
