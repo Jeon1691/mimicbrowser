@@ -1,8 +1,24 @@
 package io.develicit.mimicbrowser.model.client
 
-class TrackingProtectionWebViewClient {
+import android.content.Context
+import android.webkit.WebViewClient
+import androidx.annotation.WorkerThread
+import io.develicit.mimicbrowser.view.webview.matcher.UrlMatcher
+
+class TrackingProtectionWebViewClient(context: Context) : WebViewClient() {
     companion object {
         @Volatile
-        var MATCHER: UrlMa
+        private val MATCHER: UrlMatcher
+            get(context: Context) {
+                return UrlMatcher.load
+            }
+
+        @WorkerThread
+        @Synchronized
+        private fun getMatcher(context: Context): UrlMatcher {
+
+        }
     }
+
+
 }

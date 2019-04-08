@@ -1,11 +1,14 @@
 package io.develicit.mimicbrowser.view.webview.matcher
 
 import android.content.Context
+import android.content.SharedPreferences
 
 class UrlMatcher(
     context: Context,
     val categoryPrefMap: Map<String, String>,
-    val entityList: EntityList) {
+    val entityList: EntityList): SharedPreferences.OnSharedPreferenceChangeListener {
+
+
 
     companion object {
         private val WEBFONT: String = "Webfonts"
